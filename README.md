@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=muhammadahmed3092&label=Profile%20views&color=0e75b6&style=flat" alt="muhammadahmed3092" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=muhammadahmed3092" alt="muhammadahmed3092" /></a> </p>
-
 <p align="left"> <a href="https://twitter.com/@muhamma69505896" target="blank"><img src="https://img.shields.io/twitter/follow/@muhamma69505896?logo=twitter&style=for-the-badge" alt="@muhamma69505896" /></a> </p>
 
 - 🔭 I’m currently working on **Data Science Projects**
