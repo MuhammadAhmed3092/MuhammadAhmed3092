@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Muhammad Ahmed</h1>
-<h3 align="center">A programming Enthusiast and Data Science Practitioner</h3>
+<h3 align="center">A Programming Enthusiast and Data Science Practitioner</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=muhammadahmed3092&label=Profile%20views&color=0e75b6&style=flat" alt="muhammadahmed3092" /> </p>
 
